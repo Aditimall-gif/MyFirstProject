@@ -1,2 +1,2 @@
 # MyFirstProject
-This is my first gif repository.
+This is my first git repository.
